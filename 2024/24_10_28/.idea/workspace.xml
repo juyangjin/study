@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="554278a2-83d1-45a8-b5af-4a74b17f35b7" name="변경" comment="랜덤 이름 생성기" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="juyangjin &lt;wndid2008@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;juyangjin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/juyangjin/Study2024.git&quot;,
+    &quot;accountId&quot;: &quot;544fe67a-6c89-4714-952b-1f464273e994&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2o3W5DXaq5E4nhSJYe7xm6KMbeP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "study__2024",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/juyang/24_10_28",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/juyang/24_10_28/src/Main.java",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Main.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\juyang" />
+      <recent name="C:\Users\juyang\24_10_28" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="RandomName" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="RandomName" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="554278a2-83d1-45a8-b5af-4a74b17f35b7" name="변경" comment="" />
+      <created>1730098555209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730098555209</updated>
+      <workItem from="1730098556202" duration="3382000" />
+      <workItem from="1730102176922" duration="1282000" />
+    </task>
+    <task id="LOCAL-00001" summary="커밋 테스트용">
+      <option name="closed" value="true" />
+      <created>1730098972697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730098972697</updated>
+    </task>
+    <task id="LOCAL-00002" summary="커밋 테스트용">
+      <option name="closed" value="true" />
+      <created>1730099219229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730099219229</updated>
+    </task>
+    <task id="LOCAL-00003" summary="커밋 테스트용">
+      <option name="closed" value="true" />
+      <created>1730100835921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730100835921</updated>
+    </task>
+    <task id="LOCAL-00004" summary="랜덤 이름 생성기">
+      <option name="closed" value="true" />
+      <created>1730100891786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730100891786</updated>
+    </task>
+    <task id="LOCAL-00005" summary="랜덤 이름 생성기">
+      <option name="closed" value="true" />
+      <created>1730100895429</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730100895429</updated>
+    </task>
+    <task id="LOCAL-00006" summary="랜덤 이름 생성기">
+      <option name="closed" value="true" />
+      <created>1730100906732</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730100906732</updated>
+    </task>
+    <task id="LOCAL-00007" summary="랜덤 이름 생성기">
+      <option name="closed" value="true" />
+      <created>1730102292665</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730102292665</updated>
+    </task>
+    <task id="LOCAL-00008" summary="랜덤 이름 생성기">
+      <option name="closed" value="true" />
+      <created>1730102897664</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730102897664</updated>
+    </task>
+    <task id="LOCAL-00009" summary="랜덤 이름 생성기">
+      <option name="closed" value="true" />
+      <created>1730103123056</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730103123056</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="커밋 테스트용" />
+    <MESSAGE value="랜덤 이름 생성기" />
+    <option name="LAST_COMMIT_MESSAGE" value="랜덤 이름 생성기" />
+  </component>
+</project>
