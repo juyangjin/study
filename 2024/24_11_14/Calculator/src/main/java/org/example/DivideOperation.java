@@ -1,9 +1,8 @@
 package org.example;
 
-public class DivideOperation{
-    public double operate(int firstNumber,int secondNumber){
-        double v = (double) firstNumber / secondNumber;
-        return v;
-
+public class DivideOperation extends AbstractOperation{
+    @Override
+    public double operate(int firstNumber, int secondNumber) {
+        return (double)firstNumber / secondNumber;
     }
 }
