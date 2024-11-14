@@ -1,8 +1,8 @@
 package org.example;
 
-public class AddOperation{
-    public int operate(int firstNumber,int secondNumber){
+public class AddOperation extends AbstractOperation{
+    @Override
+    public double operate(int firstNumber, int secondNumber) {
         return firstNumber + secondNumber;
     }
-
 }
