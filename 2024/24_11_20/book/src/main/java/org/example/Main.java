@@ -1,7 +1,6 @@
 package org.example;
 
 import java.util.*;
-import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -29,14 +28,35 @@ public class Main {
         bookList.stream().filter(book -> book.getCategory().equals("여행"))
                 .forEach(f -> System.out.println("카테고리가 여행인 책 제목 : " + f.getBookName()));
 
-        System.out.println("조건 2. 가격이 16200원 이하인 책 제목 조회");
+        System.out.println("\n" + "조건 2. 가격이 16200원 이하인 책 제목 조회");
         bookList.stream().filter(book -> book.getPrice() <= 16200)
-                        .forEach(f -> System.out.println("가격이 16200원 이하인 책 제목 : " + f.getBookName() + ", 가격 : " + f.getPrice()));
+                .forEach(f -> System.out.println("가격이 16200원 이하인 책 제목 : " + f.getBookName() + ", 가격 : " + (int) f.getPrice()));
 
-        System.out.println("조건 3. 책 제목에 경제라는 용어가 들어간 책 제목 조회");
-        System.out.println("조건 4. 가격이 가장 비싼 책 가격 조회");
-        System.out.println("조건 5. 카테고리가 IT인 책들의 가격 합 조회");
-        System.out.println("조건 6. IT 책 할인 이벤트!");
+        System.out.println("\n" + "조건 3. 책 제목에 경제라는 용어가 들어간 책 제목 조회");
+        bookList.stream().filter(book -> book.getBookName().contains("경제"))
+                .forEach(f -> System.out.println("경제라는 용어가 들어간 책 제목 : " + f.getBookName()));
+
+        System.out.println("\n" + "조건 4. 가격이 가장 비싼 책 가격 조회");
+        double maxPrice = bookList.stream().mapToDouble(Book::getPrice)
+                .max().getAsDouble();
+        System.out.println("경제라는 용어가 들어간 책 제목 : " + (int) maxPrice);
+
+        System.out.println("\n" + "조건 5. 카테고리가 IT인 책들의 가격 합 조회");
+        double sumPrice = bookList.stream().filter(book -> book.getCategory().equals("IT"))
+                .mapToDouble(Book::getPrice).sum();
+        System.out.println("카테고리가 IT인 책들의 총합 : " + (int) sumPrice);
+
+        System.out.println("\n" + "조건 6. IT 책 할인 이벤트!");
+        List<Book> discountedBookList = (bookList.stream()
+                .filter(book -> book.getCategory().equals("IT")))
+                .map(book -> {
+                    book.setPrice(book.getPrice() * 0.6);
+                    return book;
+                }).toList();
+        for (Book book : discountedBookList) {
+            System.out.println("할인된 책 제목: " + book.getBookName());
+            System.out.println("할인된 책 가격: " + book.getPrice() + "\n");
+        }
     }
 }
 
