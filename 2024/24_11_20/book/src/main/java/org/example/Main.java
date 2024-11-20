@@ -25,9 +25,18 @@ public class Main {
                 new Book(17L, "레버리지", "롭 무어", "경제", 16200)
         );
 
+        System.out.println("조건 1. 카테고리가 여행인 책 제목 조회");
         bookList.stream().filter(book -> book.getCategory().equals("여행"))
-                .forEach(f -> System.out.println(("카테고리가 여행인 책 제목 : " + f.getBookName())));
-        System.out.println();
+                .forEach(f -> System.out.println("카테고리가 여행인 책 제목 : " + f.getBookName()));
+
+        System.out.println("조건 2. 가격이 16200원 이하인 책 제목 조회");
+        bookList.stream().filter(book -> book.getPrice() <= 16200)
+                        .forEach(f -> System.out.println("가격이 16200원 이하인 책 제목 : " + f.getBookName() + ", 가격 : " + f.getPrice()));
+
+        System.out.println("조건 3. 책 제목에 경제라는 용어가 들어간 책 제목 조회");
+        System.out.println("조건 4. 가격이 가장 비싼 책 가격 조회");
+        System.out.println("조건 5. 카테고리가 IT인 책들의 가격 합 조회");
+        System.out.println("조건 6. IT 책 할인 이벤트!");
     }
 }
 
