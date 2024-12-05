@@ -4,7 +4,8 @@ import lombok.Getter;
 import org.example.memo.entity.Memo;
 
 @Getter
-public class MemoResopnseDto {
+public class MemoResponseDto {
+
     private Long id;
     private String title;
     private String contents;
@@ -15,7 +16,7 @@ public class MemoResopnseDto {
     그 값을 MemoResoponseDto에 있는 필드에 저장하는 역할을 한다.
     this를 사용하면 해당 클래스 내부의 값을 의마한다.
      */
-    public MemoResopnseDto(Memo memo){
+    public MemoResponseDto(Memo memo){
         this.id = memo.getId();
         this.title = memo.getTitle();
         this.contents = memo.getContents();

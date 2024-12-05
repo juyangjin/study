@@ -19,5 +19,13 @@ public class Memo {
         this.title = requestDto.getTitle();
         this.contents = requestDto.getContents();
     }
+
+    /*
+    제목 수정을 위한 updatTitle 메서드
+    */
+    public void updateTitle(MemoRequestDto requestDto) {
+        this.title = requestDto.getTitle();
+    }
+
 }
 
