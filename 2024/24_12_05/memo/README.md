@@ -37,11 +37,13 @@
 
 <details>
 <summary> 2. 메모 생성 기능 </summary>
-- 먼저 메모 요청 dto와 메모 응답 dto를 만들고, 메모컨트롤러 클래스와 entity에 담을 메모 클래스를 만들었다.
-- 메모 컨트롤러 클래스에 Map List 형식으로 memoList를 선언
-- 메모 생성을 위해 @PostMapping 어노테이션을 사용하였고 매개변수로 @RequestBody 어노테이션을 사용한 요청 Dto값을 설정하였다.
-- memoList 값이 없으면 1이 되고 있다면 최댓값보다 1 큰 숫자를 담아서 id를 1씩 증가시키도록 하고, memo 생성자로 요청dto에 저장된 id, title, contents를 저장시켰다.
-- Memo 클래스에 필드로 id, title, contents가 선언되어 있고, 요청 dto 클래스에는 title과 contents만 필드로 선언되어 있다. 
+  
+  - 먼저 메모 요청 dto와 메모 응답 dto를 만들고, 메모컨트롤러 클래스와 entity에 담을 메모 클래스를 만들었다.
+  - 메모 컨트롤러 클래스에 Map List 형식으로 memoList를 선언
+  - 메모 생성을 위해 @PostMapping 어노테이션을 사용하였고 매개변수로 @RequestBody 어노테이션을 사용한 요청 Dto값을 설정하였다.
+  - memoList 값이 없으면 1이 되고 있다면 최댓값보다 1 큰 숫자를 담아서 id를 1씩 증가시키도록 하고, memo 생성자로 요청dto에 저장된 id, title, contents를 저장시켰다.
+  - Memo 클래스에 필드로 id, title, contents가 선언되어 있고, 요청 dto 클래스에는 title과 contents만 필드로 선언되어 있다. 
+  
 </details>
 
 <details>
