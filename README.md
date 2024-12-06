@@ -40,7 +40,7 @@
 </details>
 
 <details>
-<summary> 2. 본캠프 자바문법 프로젝트</summary>
+<summary> 2. 자바문법 프로젝트</summary>
   
 #### [자바문법 종합반 프로젝트]
 
@@ -57,8 +57,7 @@
 </details>
 
 <details>
-<summary> 3. 본캠프 Spring Boot 프로젝트</summary>
-
+<summary> 3. Spring Boot 프로젝트</summary>
 
 #### [Spring 입문 프로젝트]
 
