@@ -1,9 +1,9 @@
 # study
 
 <details>
-<summary> 1. 유용한 사이트 모음 </summary>
+<summary> 0. 유용한 사이트 모음 </summary>
 
-## 유용한 사이트 모음
+### 유용한 사이트 모음
 [노마드 코더][nomad]
 
 [Goorm Edu][goorm]
@@ -20,14 +20,47 @@
 
 </details>
 
-
 ## 개인 공부 프로젝트 README
 
-[메모장 프로젝트](https://github.com/juyangjin/study/blob/main/2024/24_12_05/memo/README.md)
+### <2024년 프로젝트>
+
+<details>
+<summary> 1. 스파르타 코딩클럽 사전캠프 자바 응용문제</summary>
+  
+#### [스파르타 사전캠프 자바 응용 문제]
+
+- [랜덤 문장 만들기](https://github.com/juyangjin/study/blob/main/2024/24_10_28/randomname/README.md)
+
+- [스파르타 자판기](https://github.com/juyangjin/study/blob/main/2024/24_10_29/vending_machine/README.md)
+
+    - 랜덤 문장 만들기와 스파르타 자판기에 대한 자세한 코드 해설은 [자바 응용문제 풀이](https://velog.io/@wndid2008/TIL-%EC%9E%90%EB%B0%94-%EC%9D%91%EC%9A%A9%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EA%B9%83%ED%97%88%EB%B8%8C%EC%99%80-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4%EB%A5%BC-%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0)에서도 확인 할 수 있습니다.
+
+- [단어맞추기](https://github.com/juyangjin/study/blob/main/2024/24_11_01/Lv3_list/README.md)
+  
+</details>
+
+<details>
+<summary> 2. 본캠프 자바문법 프로젝트</summary>
+  
+#### [자바문법 종합반 프로젝트]
+
+-  [계산기 추상클래스ver](https://github.com/juyangjin/study/blob/main/2024/24_11_14/Calculator/README.md)
+
+-  [계산기 추상+예외처리ver](https://github.com/juyangjin/study/blob/main/2024/24_11_14/Calculator_exception_ver/README.md)
+
+   - 계산기 프로젝트에 관련된 자세한 코드 해설은 [계산기 만들기(예외처리,추상화)](https://velog.io/@wndid2008/TIL-%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-Error)에서도 확인 할 수 있습니다.
+
+</details>
+
+<details>
+<summary> 3. 본캠프 Spring Boot 프로젝트</summary>
+
+#### [Spring 입문 프로젝트]
+
+- [메모장 프로젝트](https://github.com/juyangjin/study/blob/main/2024/24_12_05/memo/README.md)
 
 
-
-
+### <2025년 프로젝트>
 
 
 ####
