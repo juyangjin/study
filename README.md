@@ -44,9 +44,13 @@
   
 #### [자바문법 종합반 프로젝트]
 
--  [계산기 추상클래스ver](https://github.com/juyangjin/study/blob/main/2024/24_11_14/Calculator/README.md)
+- [레시피 기본ver](https://github.com/juyangjin/study/blob/main/2024/24_11_11/Recipe_week1/README.md)
 
--  [계산기 추상+예외처리ver](https://github.com/juyangjin/study/blob/main/2024/24_11_14/Calculator_exception_ver/README.md)
+- [레시피 리스트별 선택ver](https://github.com/juyangjin/study/blob/main/2024/24_11_13/Recipe_week2/README.md)
+    - 레시피 코드에 대해서는 너무 기본적인 코드라서 따로 해설은 미작성하고 readme만 작성
+- [계산기 추상클래스ver](https://github.com/juyangjin/study/blob/main/2024/24_11_14/Calculator/README.md)
+
+- [계산기 추상+예외처리ver](https://github.com/juyangjin/study/blob/main/2024/24_11_14/Calculator_exception_ver/README.md)
 
    - 계산기 프로젝트에 관련된 자세한 코드 해설은 [계산기 만들기(예외처리,추상화)](https://velog.io/@wndid2008/TIL-%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-Error)에서도 확인 할 수 있습니다.
 
