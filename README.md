@@ -20,14 +20,12 @@
 
 </details>
 
-<details>
-<summary> 2. 개인 공부 프로젝트 README</summary>
-  
+
 ## 개인 공부 프로젝트 README
 
 [메모장 프로젝트](https://github.com/juyangjin/study/blob/main/2024/24_12_05/memo/README.md)
 
-</details>
+
 
 
 
