@@ -59,13 +59,19 @@
 <details>
 <summary> 3. 본캠프 Spring Boot 프로젝트</summary>
 
+
 #### [Spring 입문 프로젝트]
 
 - [메모장 프로젝트](https://github.com/juyangjin/study/blob/main/2024/24_12_05/memo/README.md)
 
+</details>
 
 ### <2025년 프로젝트>
 
+<details>
+<summary>추가 프로젝트 자리</summary>
+
+</details> 
 
 ####
 [nomad]: https://nomadcoders.co/courses
