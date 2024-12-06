@@ -62,6 +62,7 @@
 #### [Spring 입문 프로젝트]
 
 - [메모장 프로젝트](https://github.com/juyangjin/study/blob/main/2024/24_12_05/memo/README.md)
+- [메모장 프로젝트 리팩토링ver_Layered Architecture](https://github.com/juyangjin/study/blob/main/2024/24_12_06/Layered/README.md)
 
 </details>
 
