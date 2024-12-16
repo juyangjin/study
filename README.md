@@ -66,13 +66,6 @@
 
 </details>
 
-### <2025년 프로젝트>
-
-<details>
-<summary>추가 프로젝트 자리</summary>
-
-</details> 
-
 ####
 [nomad]: https://nomadcoders.co/courses
 [goorm]: https://edu.goorm.io/
